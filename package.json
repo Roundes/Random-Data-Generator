@@ -1,0 +1,21 @@
+{
+  "name": "rdg",
+  "version": "1.0.0",
+  "description": "Random firstname/lastname get from json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandrs Mihejevs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Roundes@bitbucket.org/Roundes/randomdatageneration.git"
+  },
+  "keywords": [
+    "FristName",
+    "LastName",
+    "Random"
+  ],
+  "homepage": "https://bitbucket.org/Roundes/randomdatageneration#readme"
+}
